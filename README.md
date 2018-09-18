@@ -26,4 +26,4 @@ For each record it is provided:
 
 ======================================
 
-I keep the names of the variables, only changing the lower cases and undesireble simbols, since I don't have any knowledge about the mesures taken in this experiment. 
+I keep the names of the variables, only changing the Upper cases and undesireble simbols, since I don't have any knowledge about the mesures taken in this experiment. 

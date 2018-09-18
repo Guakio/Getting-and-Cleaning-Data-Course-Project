@@ -23,3 +23,6 @@ For each record it is provided:
 - A 561-feature vector with time and frequency domain variables. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
+
+======================================
+I keep the names of the variables, only changing the lower cases and undesireble simbols, since I don't have any knowledge about the mesures taken in this experiment. 

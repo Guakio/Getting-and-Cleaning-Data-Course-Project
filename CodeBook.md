@@ -36,7 +36,7 @@ Step 3 and 4 is for change the names in features and labels. Gsub for substitute
 
 ## 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-The dataset is melted to create tidy data. It will also add [mean of] to each column labels for better description. 
+The dataset is melted to create tidy data. 
 
 	basedata : melted tall and skinny dataset
 	dataset2 : casete basedata which has means of each variables

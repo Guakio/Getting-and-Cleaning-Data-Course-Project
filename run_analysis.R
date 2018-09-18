@@ -66,5 +66,5 @@ dataset$activity <- actgroup
 basedata <- melt(dataset,(id.vars=c("subject","activity")))
 dataset2 <- dcast(basedata, subject + activity ~ variable, mean)
 names(dataset2)[-c(1:2)] <- paste("[mean of]" , names(dataset2)[-c(1:2)] )
-write.table(dataset2, "tidy_data.txt", sep = ",")
+write.table(dataset2, "tidy_data.txt", row.names = FALSE)
 
